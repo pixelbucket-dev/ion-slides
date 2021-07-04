@@ -1,4 +1,4 @@
-# Ionic PWA Toolkit
+# ion-slides reproducible bug environment
 
 This project demonstrates the bug reported here https://github.com/ionic-team/ionic-framework/issues/21739
 
